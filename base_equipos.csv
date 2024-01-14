@@ -1,0 +1,21 @@
+,Equipo,Localidad,Provincia,"Latitud, longitud",Capacidad espectadores,Rival principal
+0,Argentino,Junín,Buenos Aires,"-34.590803468959834, -60.95411880874321",1500,Peñarol
+1,Boca Juniors,CABA,CABA,"-34.632734108016344, -58.36625721483082",1600,Obras Sanitarias
+2,Comunicaciones,Mercedes,Corrientes,"-29.168797845498336, -58.07933330425663",3500,La Unión
+3,Ferrocarril Oeste,CABA,CABA,"-34.61904103948557, -58.448249528367626",3500,San Lorenzo
+4,Gimnasia,Comodoro Rivadavia,Chubut,"-45.26711253745237, -66.49373853167029",2276,Instituto
+5,Independiente,Oliva,Córdoba,"-32.04104353681241, -63.56964227068552",1500,Platense
+6,Instituto,Córdoba,Córdoba,"-31.382699460073578, -64.17070608740818",2000,Gimnasia
+7,La Unión,Formosa,Formosa,"-26.184492517713508, -58.196148966342484",4500,Oberá Tenis Club
+8,Oberá Tenis Club,Oberá,Misiones,"-27.483829566147584, -55.1263389005499",2000,La Unión
+9,Obras Sanitarias,CABA,CABA,"-34.5454897089282, -58.458045393680706",3000,Boca Juniors
+10,Olímpico,La Banda,Santiago del Estero,"-27.730444588343094, -64.24191522709489",3400,Quimsa
+11,Peñarol,Mar del Plata,Buenos Aires,"-38.01760808301387, -57.57364172718106",8000,Argentino
+12,Platense,Vicente López,Buenos Aires,"-34.54017523644974, -58.4814588432505",1100,Independiente
+13,Quimsa,Santiago del Estero,Santiago del Estero,"-27.792485108655555, -64.25322596843662",5000,Olímpico
+14,Regatas,Corrientes,Corrientes,"-27.458771479097635, -58.82974639956605",4000,San Martín
+15,Riachuelo,La Rioja,La Rioja,"-29.438304569810775, -66.88905698021479",13000,Argentino
+16,San Lorenzo,CABA,CABA,"-34.63497181041773, -58.42240102448228",2200,Ferrocarril Oeste
+17,San Martín,Corrientes,Corrientes,"-27.472485396816968, -58.83893042294711",2500,Regatas
+18,Unión,Santa Fe,Santa Fe,"-31.63159169621025, -60.713231490929495",7000,Zárate
+19,Zárate Basket,Zárate,Buenos Aires,"-34.1054752878824, -59.005968284624906",4000,Unión
